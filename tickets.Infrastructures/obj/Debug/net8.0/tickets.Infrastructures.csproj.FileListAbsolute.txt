@@ -1,0 +1,17 @@
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\bin\Debug\net8.0\tickets.Infrastructures.deps.json
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\bin\Debug\net8.0\tickets.Infrastructures.dll
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\bin\Debug\net8.0\tickets.Infrastructures.pdb
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\bin\Debug\net8.0\tickets.Domain.dll
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\bin\Debug\net8.0\tickets.Interfaces.dll
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\bin\Debug\net8.0\tickets.Domain.pdb
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\bin\Debug\net8.0\tickets.Interfaces.pdb
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\obj\Debug\net8.0\tickets.Infrastructures.csproj.AssemblyReference.cache
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\obj\Debug\net8.0\tickets.Infrastructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\obj\Debug\net8.0\tickets.Infrastructures.AssemblyInfoInputs.cache
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\obj\Debug\net8.0\tickets.Infrastructures.AssemblyInfo.cs
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\obj\Debug\net8.0\tickets.Infrastructures.csproj.CoreCompileInputs.cache
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\obj\Debug\net8.0\tickets..167A5FCB.Up2Date
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\obj\Debug\net8.0\tickets.Infrastructures.dll
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\obj\Debug\net8.0\refint\tickets.Infrastructures.dll
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\obj\Debug\net8.0\tickets.Infrastructures.pdb
+C:\Users\Rojo\source\repos\tickets\tickets.Infrastructures\obj\Debug\net8.0\ref\tickets.Infrastructures.dll

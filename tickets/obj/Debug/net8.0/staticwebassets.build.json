@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7iLiN7K3CB98z/25F3EiW+njRoL1Hm0j7//cgUpGXBg=",
+  "Source": "tickets.WebApi",
+  "BasePath": "_content/tickets.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
