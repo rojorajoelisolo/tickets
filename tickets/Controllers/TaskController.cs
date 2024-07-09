@@ -108,7 +108,7 @@ namespace tickets.WebApi.Controllers
             }
             catch (Exception exception)
             {
-                _logger.LogError(exception, $"[POST] : /task/assigned-to : {exception.Message}");
+                _logger.LogError(exception, $"[POST] : /task/user : {exception.Message}");
 
                 var statusCode = exception is UnauthorizedAccessException ?
                                     Unauthorized().StatusCode :
@@ -171,7 +171,7 @@ namespace tickets.WebApi.Controllers
             }
             catch (Exception exception)
             {
-                _logger.LogError(exception, $"[POST] : /task : {exception.Message}");
+                _logger.LogError(exception, $"[POST] : /task/create : {exception.Message}");
 
                 var statusCode = exception is UnauthorizedAccessException ?
                                     Unauthorized().StatusCode :
@@ -204,7 +204,7 @@ namespace tickets.WebApi.Controllers
             }
             catch (Exception exception)
             {
-                _logger.LogError(exception, $"[PUT] : /task/{id} : {exception.Message}");
+                _logger.LogError(exception, $"[PUT] : /task/assign/{id} : {exception.Message}");
 
                 var statusCode = exception is UnauthorizedAccessException ?
                                     Unauthorized().StatusCode :
@@ -237,7 +237,7 @@ namespace tickets.WebApi.Controllers
             }
             catch (Exception exception)
             {
-                _logger.LogError(exception, $"[DELETE] : /task/{id} : {exception.Message}");
+                _logger.LogError(exception, $"[DELETE] : /task/delete/{id} : {exception.Message}");
 
                 var statusCode = exception is UnauthorizedAccessException ?
                                     Unauthorized().StatusCode :
@@ -303,7 +303,7 @@ namespace tickets.WebApi.Controllers
             }
             catch (Exception exception)
             {
-                _logger.LogError(exception, $"[POST] : /task/status : {exception.Message}");
+                _logger.LogError(exception, $"[POST] : /task/change/status : {exception.Message}");
 
                 var statusCode = exception is UnauthorizedAccessException ?
                                     Unauthorized().StatusCode :
@@ -336,7 +336,7 @@ namespace tickets.WebApi.Controllers
             }
             catch (Exception exception)
             {
-                _logger.LogError(exception, $"[GET] : /task/status/all : {exception.Message}");
+                _logger.LogError(exception, $"[GET] : /task/statuses/all : {exception.Message}");
 
                 var errorResponse = new BaseResponse<ErrorResponse>
                 {
